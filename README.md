@@ -15,6 +15,8 @@ Invitation to
   - open sessions for any R related question. 
   - open call to share any software-related problem 
   
+At MEASO 2018 we had an [discussion about modern R](https://australianantarcticdivision.github.io/R-MEASO18/#3), and initiatives to build a Southern Ocean / Antarctic branch
+within ROpenSci. 
 
 # Related resources: 
 
