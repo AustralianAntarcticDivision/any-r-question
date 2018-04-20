@@ -18,6 +18,12 @@ Invitation to
 At MEASO 2018 we had an [discussion about modern R](https://australianantarcticdivision.github.io/R-MEASO18/#3), and initiatives to build a Southern Ocean / Antarctic branch
 within ROpenSci. 
 
+# Our Aims:
+
+1. To grow the community of Antarctic and Southern Ocean R users
+2. Increase awareness of available datasets and packages
+3. Develop confidence and expertise of R users, particularly amongst early career researchers
+
 # Related resources: 
 
 ROpenSci: R for reproducible science, open data & software, a global initiative to build
